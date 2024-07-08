@@ -7,6 +7,8 @@ The objective of this project is to:
 - Manage speed and cost effectively.
 - Deploy models on private infrastructure to ensure security.
 
+Model can be accessed via chatbot https://snowflectanalytics.shinyapps.io/dbxendpointapp/
+
 ### Retrieval Augmented Generation (RAG)
 RAG is an effective GenAI technique that enhances model performance by integrating proprietary data (e.g., business-specific documentation) without requiring model fine-tuning. It achieves this by using custom information as context for the LLM, minimizing incorrect information and enabling the LLM to generate outputs tailored to company-specific data, all while preserving the original model structure. RAG has demonstrated particular effectiveness in chatbots and Q&A systems needing current information or domain-specific knowledge.
 
